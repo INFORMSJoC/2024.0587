@@ -3,7 +3,7 @@
 # QHDOPT: A Software for Nonlinear Optimization with Quantum Hamiltonian Descent
 
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE.txt).
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
@@ -31,7 +31,8 @@ Below is the BibTex for citing this snapshot of the repository.
   title     = {{QHDOPT}: A Software for Nonlinear Optimization with {Q}uantum {H}amiltonian {D}escent},
   year      = {2024},
   doi       = {10.1287/ijoc.2024.0587.cd},
-  url       = {https://github.com/jiaqileng/QHDOPT},
+  url       = {https://github.com/INFORMSJoC/2024.0587},
+  note   = {Available for download at https://github.com/INFORMSJoC/2024.0587},
 }
 ```
 
