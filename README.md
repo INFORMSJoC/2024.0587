@@ -8,7 +8,9 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
 [``QHDOPT: A Software for Nonlinear Optimization with Quantum Hamiltonian Descent''](https://doi.org/10.1287/ijoc.2024.0587) by S. Kushnir, J. Leng, Y. Peng, L. Fan, and X. Wu. 
-The snapshot can be retrieved from the `ijoc-snapshot` branch in the [QHDOPT repository](https://github.com/jiaqileng/QHDOPT).
+The snapshot is based on 
+[this SHA](https://github.com/jiaqileng/QHDOPT/tree/0f1aec6d1ed83a446fca01f5d23ad1edb7ecdc36) 
+in the main repository. 
 
 **Important: This code is being developed on an on-going basis at 
 https://github.com/jiaqileng/QHDOPT. Please go there if you would like to
@@ -32,7 +34,7 @@ Below is the BibTex for citing this snapshot of the repository.
   year      = {2024},
   doi       = {10.1287/ijoc.2024.0587.cd},
   url       = {https://github.com/INFORMSJoC/2024.0587},
-  note   = {Available for download at https://github.com/INFORMSJoC/2024.0587},
+  note      = {Available for download at https://github.com/INFORMSJoC/2024.0587},
 }
 ```
 
